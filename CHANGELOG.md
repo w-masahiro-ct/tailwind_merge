@@ -1,3 +1,5 @@
+# [v0.15.0] - 24-01-2025
+**Full Changelog**: https://github.com/w-masahiro-ct/tailwind_merge/compare/v0.14.0...v0.15.0
 # [v0.15.0] - 23-01-2025
 ## What's Changed
 * Improve gemspec by @w-masahiro-ct in https://github.com/gjtorikian/tailwind_merge/pull/41
